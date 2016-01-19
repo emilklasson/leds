@@ -1,0 +1,13 @@
+{
+	"leds": {
+	 	"1": {"name": "Red Light", 
+	 				"enable": false, 
+	 				"GPIO": "17", 
+	 				"GPIO_TYPE": "out"},
+	 	"2": {"name": "Green Light", 
+	 				"enable": false, 
+	 				"GPIO": "27", 
+	 				"GPIO_TYPE": "out"}
+	}
+}
+
